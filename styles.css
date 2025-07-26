@@ -538,11 +538,11 @@
 @media (max-width: 250px) {
 
     body {
-        padding: 5px 2px; 
+        padding: 0px 0px; 
     }
 
     .invoice-container {
-        margin: auto; 
+        margin: 0; 
         box-shadow: none;
     }
 

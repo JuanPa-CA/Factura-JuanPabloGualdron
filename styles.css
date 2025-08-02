@@ -61,9 +61,6 @@
     font-size: 14px;
     font-weight: bold;
     color: white;
-    text-align: center;
-    padding: 3px 8px;
-    max-width: 250px;
 }
 
    .invoice-label {
@@ -677,5 +674,6 @@
      
     }
 }
+
 
 

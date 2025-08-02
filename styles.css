@@ -58,15 +58,7 @@
     height: auto;
 }
 
-.slogan {
-    font-size: 10px;
-    font-weight: bold;
-    color: white;
-    letter-spacing: 1px;
-    margin-top: -8px; /* acercar al logo */
-    margin-left: 4px; /* ajustar para que quede alineado */
-    opacity: 0.9;
-}
+
 
 
    .invoice-label {
@@ -680,6 +672,7 @@
      
     }
 }
+
 
 
 

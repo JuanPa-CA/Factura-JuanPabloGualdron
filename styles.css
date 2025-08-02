@@ -59,17 +59,14 @@
 .logo {
     display: flex;
     flex-direction: column; /* apila verticalmente */
-    align-items: flex-start; /* alinea a la izquierda */
+    
 }
 
-.logo img {
-    height: 160px;
-    width: auto;
-    object-fit: contain;
+
 }
 
 .slogan {
-    margin-top: 5px;
+    margin-top: 0;
     font-size: 14px;
     font-weight: bold;
     color: white;
@@ -688,6 +685,7 @@
      
     }
 }
+
 
 
 

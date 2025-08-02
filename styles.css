@@ -56,12 +56,26 @@
        height: auto;
    }
 
-.logo .slogan {
-    
+.logo {
+    display: flex;
+    flex-direction: column; /* apila verticalmente */
+    align-items: flex-start; /* alinea a la izquierda */
+}
+
+.logo img {
+    height: 160px;
+    width: auto;
+    object-fit: contain;
+}
+
+.slogan {
+    margin-top: 5px;
     font-size: 14px;
     font-weight: bold;
     color: white;
+    letter-spacing: 1px;
 }
+
 
    .invoice-label {
        text-align: right;
@@ -674,6 +688,7 @@
      
     }
 }
+
 
 
 

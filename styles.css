@@ -235,6 +235,8 @@
             padding: 20px;
             text-align: center;
             min-height: 100px;
+         background-color: black;
+          background-image: none;
         }
         .logo {
             margin-bottom: 15px;
@@ -527,3 +529,4 @@
             margin-top: 10px;
         }
     }
+

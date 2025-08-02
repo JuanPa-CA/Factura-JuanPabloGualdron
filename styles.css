@@ -56,18 +56,14 @@
        height: auto;
    }
 
-.logo {
-    display: flex;
-    flex-direction: column; /* apila verticalmente */
-    
-}
+
 
 
 }
 
 .slogan {
     margin-top: 0;
-    font-size: 14px;
+    font-size: 8px;
     font-weight: bold;
     color: white;
     letter-spacing: 1px;
@@ -685,6 +681,7 @@
      
     }
 }
+
 
 
 
